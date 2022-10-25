@@ -19,3 +19,5 @@ No dependencies were used in the pom.xml.
 * Enter your name in the 'Enter login'
 
 ### Messaging Screenshot
+
+![terminalChat](https://user-images.githubusercontent.com/115481958/197731892-d100cf28-8830-4f91-a443-eb3a0727979c.PNG)
